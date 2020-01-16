@@ -1,2 +1,3 @@
-# personal
-just personal stuff
+# readings
+
+just some interesting stuff to read
